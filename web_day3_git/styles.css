@@ -1,0 +1,36 @@
+*{
+  background-color:azure;
+  margin: 20px ;
+}
+.div {
+  text-align: justify;
+  font-size: larger;
+  font-weight: 600; 
+  width:48%;
+  height: auto;
+  background-color: aqua;
+  padding: 20px;
+  border: 10px solid tomato;
+  margin: top 40px;
+  box-shadow: 10px 6px tomato;
+}
+#mahbub {
+  font-size:30px ;
+  color:rgb(10, 32, 202);
+  /* background-color: brown; */
+  padding: 10px;
+  border: 10px solid greenyellow;
+  margin:10px;
+  display: inline;
+  
+  }
+.list{
+  text-align: left;
+  font-family:Arial, Helvetica, sans-serif, Times, serif;
+  font-style: italic;
+  font-weight: 600;
+  background-color: chartreuse;
+  border-radius: 30px 5px 50px 20px;
+  box-shadow: -10px -10px yellow;
+  margin-bottom: 90px ;
+}
